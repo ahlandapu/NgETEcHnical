@@ -1,0 +1,2 @@
+# NgETEcHnical
+Gelas kosong
