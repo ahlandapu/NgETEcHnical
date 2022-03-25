@@ -1,2 +1,2 @@
 # NgETEcHnical
-Gelas kosong
+Repo goreng-goreng
